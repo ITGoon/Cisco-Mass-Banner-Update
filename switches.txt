@@ -1,0 +1,3 @@
+LIST OF YOUR SWITCHES HERE
+They can be referenced by IP or DNS if you have your /etc/hosts file setup
+Put one switch IP or name on each line
