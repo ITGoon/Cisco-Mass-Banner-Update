@@ -1,10 +1,6 @@
 # Cisco Login Banner Mass Change Script
 
-Created by John Amerkhanian
-
-MD5 Checksums on the first version of these files:<br>
-banner_list.sh	::	9731ee1b6037ab78368b57f156c713e1<br>
-banner.sh	::	3dd32790cc6d8a99f4804242095dcb79<br>
+Created by John Amerkhanian<br><br>
 
 Contact at johnincsoftware@gmail.com<br>
 Please put some reference to GitHub in the subject line so I don't miss it
