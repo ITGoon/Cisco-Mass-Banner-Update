@@ -1,10 +1,5 @@
 # Cisco Login Banner Mass Change Script
 
-Created by John Amerkhanian<br><br>
-
-Contact at johnincsoftware@gmail.com<br>
-Please put some reference to GitHub in the subject line so I don't miss it
-
 Use: Execute banner_list.sh,  ./banner_list.sh
 
 # Description for initial version:
@@ -21,9 +16,9 @@ Requirements:<br>
 -> A Linux machine (Have not tested on Linux Subsystem for Windows but it should work)<br>
 -> The 'expect' package <br>
           -- Use apt-get install expect for Debian/Ubuntu<br>
-          -- For CentOS/RHEL add the EPEL repo and run yum install expect  [I haven't tried this script yet on my CentOS machine]
+          -- For CentOS/RHEL add the EPEL repo and run yum install expect
           <br><br>
 Future plans:<br>
--> Create VBS scripts to run within Windows environments<br>
+-> Make a PowerShell version? And probably charge a ton of money for it? Sure<br>
 -> Create version for SSH<br>
 -> Create various versions for different privilege levels
